@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+
+
+.bg-blue{
+    background-color: #2C3E50;
+}
+.bg-green{
+    background-color: #20c997;
+}
+.hero-content img{
+    width: 230px;
+    max-width: 100%;
+}
+.navbar{
+    height: 90px;
+}
+.hero-content, .nav-link, .navbar-brand, .about-content{
+    color: white !important;
+}
