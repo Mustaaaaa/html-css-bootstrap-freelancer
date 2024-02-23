@@ -21,6 +21,6 @@ img{
 .navbar{
     height: 90px;
 }
-.hero-content, .nav-link, .navbar-brand, .about-content{
+.hero-content, .nav-link, .navbar-brand, .about-content, .footer-content{
     color: white !important;
 }
